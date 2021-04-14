@@ -1,6 +1,6 @@
 @font-face {
   font-family: agressive;
-  src: url(fonts/AGTRSSIVE.otf);
+  src: url(../fonts/AGTRSSIVE.otf);
 }
 
 html {
@@ -8,7 +8,7 @@ html {
   padding: 0;
   width: 100%;
   /* The image used */
-  background-image: url(images/background.png);
+  background-image: url(../images/background.png);
 
   /* Center and scale the image nicely */
   background-position: center;
@@ -22,7 +22,7 @@ body {
   font-family: 'Poppins', sans-serif;
   font-size: 16px;
   /* The image used */
-  background-image: url(images/background.png);
+  background-image: url(../images/background.png);
 
   /* Center and scale the image nicely */
   background-position: center;
@@ -183,7 +183,7 @@ a {
   right: 20px;
   width: 40px;
   height: 40px;
-  background-image: url("images/validation/success-select.png");
+  background-image: url("../images/validation/success-select.png");
   background-size: 100%;
   background-repeat: no-repeat;
   top: 15px;
@@ -195,7 +195,7 @@ a {
   right: 20px;
   width: 40px;
   height: 40px;
-  background-image: url("images/validation/error-select.png");
+  background-image: url("../images/validation/error-select.png");
   background-size: 100%;
   background-repeat: no-repeat;
   top: 15px;
@@ -208,7 +208,7 @@ a {
   right: 20px;
   width: 40px;
   height: 40px;
-  background-image: url("images/validation/noselection.png");
+  background-image: url("../images/validation/noselection.png");
   background-size: 100%;
   background-repeat: no-repeat;
   top: 15px;
@@ -220,7 +220,7 @@ a {
   right: 20px;
   width: 40px;
   height: 40px;
-  background-image: url("images/validation/success-indi.png");
+  background-image: url("../images/validation/success-indi.png");
   background-size: 100%;
   background-repeat: no-repeat;
   top: 15px;
@@ -408,25 +408,25 @@ a {
 
 
 .c-face-1 {
-  background-image: url("images/face-1.png");
+  background-image: url("../images/face-1.png");
   background-size: 100%;
   background-repeat: no-repeat;
 }
 
 .c-face-2 {
-  background-image: url("images/face-2.png");
+  background-image: url("../images/face-2.png");
   background-size: 100%;
   background-repeat: no-repeat;
 }
 
 .c-face-3 {
-  background-image: url("images/face-3.png");
+  background-image: url("../images/face-3.png");
   background-size: 100%;
   background-repeat: no-repeat;
 }
 
 .c-face-4 {
-  background-image: url("images/face-4.png");
+  background-image: url("../images/face-4.png");
   background-size: 100%;
   background-repeat: no-repeat;
 }
@@ -610,7 +610,7 @@ a {
     padding: 0;
     width: 100%;
      /* The image used */
-     background-image: url(images/background.png);
+     background-image: url(../images/background.png);
   
      /* Center and scale the image nicely */
      background-position: center;
@@ -628,7 +628,7 @@ a {
     text-align: center;
   
      /* The image used */
-     background-image: url(images/background.png);
+     background-image: url(../images/background.png);
   
      /* Center and scale the image nicely */
      background-position: center;
@@ -790,7 +790,7 @@ a {
     right: 20px;
     width: 40px;
     height: 40px;
-    background-image: url("images/validation/success-select.png");
+    background-image: url("../images/validation/success-select.png");
     background-size: 100%;
     background-repeat: no-repeat;
     top: 15px;
@@ -802,7 +802,7 @@ a {
     right: 20px;
     width: 40px;
     height: 40px;
-    background-image: url("images/validation/error-select.png");
+    background-image: url("../images/validation/error-select.png");
     background-size: 100%;
     background-repeat: no-repeat;
     top: 15px;
@@ -815,7 +815,7 @@ a {
     right: 20px;
     width: 40px;
     height: 40px;
-    background-image: url("images/validation/noselection.png");
+    background-image: url("../images/validation/noselection.png");
     background-size: 100%;
     background-repeat: no-repeat;
     top: 15px;
@@ -827,7 +827,7 @@ a {
     right: 20px;
     width: 40px;
     height: 40px;
-    background-image: url("images/validation/success-indi.png");
+    background-image: url("../images/validation/success-indi.png");
     background-size: 100%;
     background-repeat: no-repeat;
     top: 15px;
@@ -1011,25 +1011,25 @@ a {
   
   
   .c-face-1 {
-    background-image: url("images/face-1.png");
+    background-image: url("../images/face-1.png");
     background-size: 100%;
     background-repeat: no-repeat;
   }
   
   .c-face-2 {
-    background-image: url("images/face-2.png");
+    background-image: url("../images/face-2.png");
     background-size: 100%;
     background-repeat: no-repeat;
   }
   
   .c-face-3 {
-    background-image: url("images/face-3.png");
+    background-image: url("../images/face-3.png");
     background-size: 100%;
     background-repeat: no-repeat;
   }
   
   .c-face-4 {
-    background-image: url("images/face-4.png");
+    background-image: url("../images/face-4.png");
     background-size: 100%;
     background-repeat: no-repeat;
   }
