@@ -154,15 +154,15 @@ function shuffle(array) {
 
   var showFace = function(){
 
-   if(COMPLETED_SUCCESS <= 39) {
+   if(COMPLETED_SUCCESS <= 18) {
         return {face: "c-face-1",  text: "¡Manos a la obra! Hay mucho por hacer. Empezá ya mismo. Capacitate en serio, investigá, aprendé, entendé y ejecutá. Sin buenos contenidos hoy ningún proyecto, empresa u organización va a crecer y ni siquiera mantenerse a flote. No quiero desanimarte, pero tenés que moverte o pedir ayuda. 🤷🏻‍♂️ "}
    } 
 
-   if(COMPLETED_SUCCESS > 39 && COMPLETED_SUCCESS <= 59) {
+   if(COMPLETED_SUCCESS > 19 && COMPLETED_SUCCESS <= 36) {
         return {face: "c-face-2",  text: "Puede y debe mejorar. Tenés que realizar ajustes importantes en tu estrategia, tu equipo o tus proveedores. Armá un plan y contratá free-lancers que te ayuden o una empresa especializada en contenidos. También podés hacer un taller in-company ad-hoc sobre contenidos como los que ofrece MarketingAVC. Pero corré, porque hay muchos que ya lo están haciendo y entre ellos puede estar tu competencia. 🏃‍♀️🏃‍♀️🏃‍♀️"}
    }
    
-   if(COMPLETED_SUCCESS > 59 && COMPLETED_SUCCESS <= 75) {
+   if(COMPLETED_SUCCESS > 36  && COMPLETED_SUCCESS <= 54) {
         return {face: "c-face-3",  text: "Venís muuuy bien. Hay detalles para mejorar, pero estás haciendo un gran trabajo.  Leé y hace cursos online sobre copywriting, lead magnets, utilizá herramientas para saber de qué y cómo habla tu público y seguí por este camino. 😊"}
    }
         
