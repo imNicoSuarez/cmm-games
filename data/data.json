@@ -1,64 +1,64 @@
 {
   "brandsQuiz": [
     {
-    "successBrand": {"name": "Facebook", "isCorrect": true, "img": "/images/brand/facebook.png"},
+    "successBrand": {"name": "Facebook", "isCorrect": true, "img": "images/brand/facebook.png"},
     "otherOptions" : [{"name": "Clubhouse", "isCorrect": false},{"name": "Chat", "isCorrect": false},{"name": "Instagram", "isCorrect": false},{"name": "Spotify", "isCorrect": false}, {"name": "Whatsapp", "isCorrect": false},{"name": "Twitter", "isCorrect": false} ]
     },{
-      "successBrand": {"name": "Instagram", "isCorrect": true, "img": "/images/brand/instagram.png"},
+      "successBrand": {"name": "Instagram", "isCorrect": true, "img": "images/brand/instagram.png"},
       "otherOptions" : [{"name": "Clubhouse", "isCorrect": false},{"name": "Chat", "isCorrect": false},{"name": "Facebook", "isCorrect": false},{"name": "Spotify", "isCorrect": false}, {"name": "Whatsapp", "isCorrect": false},{"name": "Twitter", "isCorrect": false} ]
     },{
-      "successBrand": {"name": "Twitter", "isCorrect": true, "img": "/images/brand/twitter.png"},
+      "successBrand": {"name": "Twitter", "isCorrect": true, "img": "images/brand/twitter.png"},
       "otherOptions" : [{"name": "Clubhouse", "isCorrect": false},{"name": "Chat", "isCorrect": false},{"name": "Instagram", "isCorrect": false},{"name": "Spotify", "isCorrect": false}, {"name": "Whatsapp", "isCorrect": false},{"name": "Wifi", "isCorrect": false} ]
     },{
-      "successBrand": {"name": "Spotify", "isCorrect": true, "img": "/images/brand/spotify.png"},
+      "successBrand": {"name": "Spotify", "isCorrect": true, "img": "images/brand/spotify.png"},
       "otherOptions" : [{"name": "Clubhouse", "isCorrect": false},{"name": "Chat", "isCorrect": false},{"name": "Instagram", "isCorrect": false},{"name": "Google", "isCorrect": false}, {"name": "Whatsapp", "isCorrect": false},{"name": "Wifi", "isCorrect": false} ]
     },{
-      "successBrand": {"name": "Clubhouse", "isCorrect": true, "img": "/images/brand/clubhouse.png"},
+      "successBrand": {"name": "Clubhouse", "isCorrect": true, "img": "images/brand/clubhouse.png"},
       "otherOptions" : [{"name": "Youtube", "isCorrect": false},{"name": "Chat", "isCorrect": false},{"name": "Instagram", "isCorrect": false},{"name": "Google", "isCorrect": false}, {"name": "Whatsapp", "isCorrect": false},{"name": "Wifi", "isCorrect": false} ]
     },{
-      "successBrand": {"name": "Youtube", "isCorrect": true, "img": "/images/brand/youtube.png"},
+      "successBrand": {"name": "Youtube", "isCorrect": true, "img": "images/brand/youtube.png"},
       "otherOptions" : [{"name": "CMM", "isCorrect": false},{"name": "Chat", "isCorrect": false},{"name": "Instagram", "isCorrect": false},{"name": "Google", "isCorrect": false}, {"name": "Whatsapp", "isCorrect": false},{"name": "Wifi", "isCorrect": false} ]
     },{
-      "successBrand": {"name": "Google", "isCorrect": true, "img": "/images/brand/google.png"},
+      "successBrand": {"name": "Google", "isCorrect": true, "img": "images/brand/google.png"},
       "otherOptions" : [{"name": "CMM", "isCorrect": false},{"name": "Chat", "isCorrect": false},{"name": "Instagram", "isCorrect": false},{"name": "Link", "isCorrect": false}, {"name": "Whatsapp", "isCorrect": false},{"name": "Wifi", "isCorrect": false} ]
     },{
-      "successBrand": {"name": "Whatsapp", "isCorrect": true, "img": "/images/brand/whatsapp.png"},
+      "successBrand": {"name": "Whatsapp", "isCorrect": true, "img": "images/brand/whatsapp.png"},
       "otherOptions" : [{"name": "CMM", "isCorrect": false},{"name": "Chat", "isCorrect": false},{"name": "Instagram", "isCorrect": false},{"name": "Link", "isCorrect": false}, {"name": "Guardar Posteos", "isCorrect": false},{"name": "Wifi", "isCorrect": false} ]
     },{
-      "successBrand": {"name": "CMM", "isCorrect": true, "img": "/images/brand/cmm.png"},
+      "successBrand": {"name": "CMM", "isCorrect": true, "img": "images/brand/cmm.png"},
       "otherOptions" : [{"name": "Retwittear", "isCorrect": false},{"name": "Chat", "isCorrect": false},{"name": "Instagram", "isCorrect": false},{"name": "Link", "isCorrect": false}, {"name": "Guardar Posteos", "isCorrect": false},{"name": "Wifi", "isCorrect": false} ]
     },{
-      "successBrand": {"name": "Like", "isCorrect": true, "img": "/images/brand/like.png"},
+      "successBrand": {"name": "Like", "isCorrect": true, "img": "images/brand/like.png"},
       "otherOptions" : [{"name": "Retwittear", "isCorrect": false},{"name": "Chat", "isCorrect": false},{"name": "Instagram", "isCorrect": false},{"name": "Mail", "isCorrect": false}, {"name": "Guardar Posteos", "isCorrect": false},{"name": "Wifi", "isCorrect": false} ]
     },{
-      "successBrand": {"name": "Guardar Posteos", "isCorrect": true, "img": "/images/brand/marker.png"},
+      "successBrand": {"name": "Guardar Posteos", "isCorrect": true, "img": "images/brand/marker.png"},
       "otherOptions" : [{"name": "Retwittear", "isCorrect": false},{"name": "Chat", "isCorrect": false},{"name": "Instagram", "isCorrect": false},{"name": "Mail", "isCorrect": false}, {"name": "Clubhouse", "isCorrect": false},{"name": "Wifi", "isCorrect": false} ]
     },{
-      "successBrand": {"name": "Retwittear", "isCorrect": true, "img": "/images/brand/retwittear.png"},
+      "successBrand": {"name": "Retwittear", "isCorrect": true, "img": "images/brand/retwittear.png"},
       "otherOptions" : [{"name": "Skip", "isCorrect": false},{"name": "Chat", "isCorrect": false},{"name": "Instagram", "isCorrect": false},{"name": "Mail", "isCorrect": false}, {"name": "Clubhouse", "isCorrect": false},{"name": "Wifi", "isCorrect": false} ]
     },{
-      "successBrand": {"name": "Wifi", "isCorrect": true, "img": "/images/brand/wifi.png"},
+      "successBrand": {"name": "Wifi", "isCorrect": true, "img": "images/brand/wifi.png"},
       "otherOptions" : [{"name": "Skip", "isCorrect": false},{"name": "Chat", "isCorrect": false},{"name": "Instagram", "isCorrect": false},{"name": "Mail", "isCorrect": false}, {"name": "Clubhouse", "isCorrect": false},{"name": "Youtube", "isCorrect": false} ]
     },{
-      "successBrand": {"name": "Mail", "isCorrect": true, "img": "/images/brand/mail.png"},
+      "successBrand": {"name": "Mail", "isCorrect": true, "img": "images/brand/mail.png"},
       "otherOptions" : [{"name": "Skip", "isCorrect": false},{"name": "Chat", "isCorrect": false},{"name": "Instagram", "isCorrect": false},{"name": "Spotify", "isCorrect": false}, {"name": "Clubhouse", "isCorrect": false},{"name": "Youtube", "isCorrect": false} ]
     },{
-      "successBrand": {"name": "Cerrar", "isCorrect": true, "img": "/images/brand/cerrar.png"},
+      "successBrand": {"name": "Cerrar", "isCorrect": true, "img": "images/brand/cerrar.png"},
       "otherOptions" : [{"name": "Facebook", "isCorrect": false},{"name": "Chat", "isCorrect": false},{"name": "Instagram", "isCorrect": false},{"name": "Spotify", "isCorrect": false}, {"name": "Clubhouse", "isCorrect": false},{"name": "Youtube", "isCorrect": false} ]
     },{
-      "successBrand": {"name": "Share", "isCorrect": true, "img": "/images/brand/share.png"},
+      "successBrand": {"name": "Share", "isCorrect": true, "img": "images/brand/share.png"},
       "otherOptions" : [{"name": "Facebook", "isCorrect": false},{"name": "Chat", "isCorrect": false},{"name": "Instagram", "isCorrect": false},{"name": "Spotify", "isCorrect": false}, {"name": "Clubhouse", "isCorrect": false},{"name": "Youtube", "isCorrect": false} ]
     },{
-      "successBrand": {"name": "Buscador", "isCorrect": true, "img": "/images/brand/buscador.png"},
+      "successBrand": {"name": "Buscador", "isCorrect": true, "img": "images/brand/buscador.png"},
       "otherOptions" : [{"name": "Facebook", "isCorrect": false},{"name": "Chat", "isCorrect": false},{"name": "Instagram", "isCorrect": false},{"name": "Spotify", "isCorrect": false}, {"name": "Ubicación", "isCorrect": false},{"name": "Youtube", "isCorrect": false} ]
     },{
-      "successBrand": {"name": "Ubicación", "isCorrect": true, "img": "/images/brand/ubicacion.png"},
+      "successBrand": {"name": "Ubicación", "isCorrect": true, "img": "images/brand/ubicacion.png"},
       "otherOptions" : [{"name": "Facebook", "isCorrect": false},{"name": "Chat", "isCorrect": false},{"name": "Instagram", "isCorrect": false},{"name": "Spotify", "isCorrect": false}, {"name": "CMM", "isCorrect": false},{"name": "Youtube", "isCorrect": false} ]
     },{
-      "successBrand": {"name": "Link o Vínculo", "isCorrect": true, "img": "/images/brand/link.png"},
+      "successBrand": {"name": "Link o Vínculo", "isCorrect": true, "img": "images/brand/link.png"},
       "otherOptions" : [{"name": "Facebook", "isCorrect": false},{"name": "Chat", "isCorrect": false},{"name": "Instagram", "isCorrect": false},{"name": "Spotify", "isCorrect": false}, {"name": "CMM", "isCorrect": false},{"name": "Youtube", "isCorrect": false} ]
     },{
-      "successBrand": {"name": "Carrito", "isCorrect": true, "img": "/images/brand/carrito.png"},
+      "successBrand": {"name": "Carrito", "isCorrect": true, "img": "images/brand/carrito.png"},
       "otherOptions" : [{"name": "Facebook", "isCorrect": false},{"name": "Chat", "isCorrect": false},{"name": "Instagram", "isCorrect": false},{"name": "Spotify", "isCorrect": false}, {"name": "CMM", "isCorrect": false},{"name": "Youtube", "isCorrect": false} ]
     }
   ]
