@@ -1,0 +1,75 @@
+{
+    "qpeople":[{
+        "question": "¿Qué es lo primero que hace una persona cuando se levanta?",
+        "answersList" : [{"answer": "Chequear su celular ", "isCorrect": true}, 
+                        {"answer": "Chequear las redes sociales", "isCorrect": false}, 
+                        {"answer": "Desayunar", "isCorrect": false},
+                        {"answer": "Chequear las noticias", "isCorrect": false} ]
+    },
+    {
+        "question": "Un buen contenido … (completa la frase)",
+        "answersList" : [{"answer": "Es original", "isCorrect": true}, 
+                        {"answer": "Da respuestas", "isCorrect": false}, 
+                        {"answer": "Es atractivo", "isCorrect": false},
+                        {"answer": "Es claro", "isCorrect": false} ]
+    },
+    {
+        "question": "¿Cuál es el mejor horario para publicar en Instagram?",
+        "answersList" : [{"answer": "Según tu audiencia", "isCorrect": true}, 
+                        {"answer": "15:00 hs", "isCorrect": false}, 
+                        {"answer": "19:00 hs", "isCorrect": false},
+                        {"answer": "21:00 hs", "isCorrect": false} ]
+    },
+    {
+        "question": "¿Porqué algunos contenidos se viralizan y otros no?",
+        "answersList" : [{"answer": "Porque integran elementos ya viralizados en su contenido.", "isCorrect": true}, 
+                        {"answer": "Porque usan bien los #", "isCorrect": false}, 
+                        {"answer": "Porque se comparten muchas veces", "isCorrect": false},
+                        {"answer": "Porque tienen muchos likes", "isCorrect": false} ]
+    },
+    {
+        "question": "¿Cuántos usuarios activos tiene Tik Tok?",
+        "answersList" : [{"answer": "800 millones", "isCorrect": true}, 
+                        {"answer": "3 millones", "isCorrect": false}, 
+                        {"answer": "20 millones", "isCorrect": false},
+                        {"answer": "2 billones", "isCorrect": false} ]
+    },
+    {
+        "question": "¿Qué plataforma utilizas para escuchar podcasts?",
+        "answersList" : [{"answer": "Spotify", "isCorrect": true}, 
+                         {"answer": "Youtube", "isCorrect": false}, 
+                         {"answer": "Club House", "isCorrect": false},
+                         {"answer": "Radio", "isCorrect": false} ]
+    },
+    {
+        "question": "¿Qué contenidos generan mayor engagement?",
+        "answersList" : [{"answer": "Calls to action", "isCorrect": true}, 
+                         {"answer": "Banners", "isCorrect": false}, 
+                         {"answer": "Sorteos", "isCorrect": false},
+                         {"answer": "Reels", "isCorrect": false} ]
+    },
+    {
+        "question": "¿Cómo generar content marketing para pequeñas empresas?",
+        "answersList" : [{"answer": "Colaborar con otras marcas", "isCorrect": true}, 
+                         {"answer": "Conocer tu audiencia", "isCorrect": false}, 
+                         {"answer": "Solucionar el problema del público", "isCorrect": false},
+                         {"answer": "ReePriorizar identidad visualls", "isCorrect": false} ]
+    },
+    {
+        "question": "¿Cómo se originó el Content Marketing?",
+        "answersList" : [{"answer": "Popeye (el comic de popeye se creó en 1929 por una empresa que producía  espinaca)", "isCorrect": true}, 
+                         {"answer": "American Bee Journal (la revista científica se creó en 1861 por un apicultor)", "isCorrect": false}, 
+                         {"answer": "La Guía Michelin (la guía de viaje con hospedajes y service automotor se creó en 1900 por una empresa productora de neumáticos)", "isCorrect": false},
+                         {"answer": "Will It Blend (el canal de youtube que mostraba diferentes productos siendo licuados por una licuadora se creó en 2006 por una empresa que vende licuadoras hechas por científicos de la NASA)", "isCorrect": false} ]
+    },
+    {
+        "question": "¿mm?",
+        "answersList" : [{"answer": "m", "isCorrect": true}, 
+                         {"answer": "m", "isCorrect": false}, 
+                         {"answer": "m", "isCorrect": false},
+                         {"answer": "m", "isCorrect": false} ]
+    }
+
+]
+}
+
