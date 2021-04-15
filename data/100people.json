@@ -63,11 +63,11 @@
                          {"answer": "Will It Blend (el canal de youtube que mostraba diferentes productos siendo licuados por una licuadora se creó en 2006 por una empresa que vende licuadoras hechas por científicos de la NASA)", "isCorrect": false} ]
     },
     {
-        "question": "¿mm?",
-        "answersList" : [{"answer": "m", "isCorrect": true}, 
-                         {"answer": "m", "isCorrect": false}, 
-                         {"answer": "m", "isCorrect": false},
-                         {"answer": "m", "isCorrect": false} ]
+        "question": "¿Qué es te interesa más a la hora de seguir un perfil en redes sociales?",
+        "answersList" : [{"answer": "Su contenido en general, que sea interesante", "isCorrect": true}, 
+                         {"answer": "Su comunidad/cantidad de seguidores", "isCorrect": false}, 
+                         {"answer": "La estética del influencer y de su feed)", "isCorrect": false},
+                         {"answer": "La interacción que tiene con sus seguidores", "isCorrect": false} ]
     }
 
 ]
